@@ -41,18 +41,20 @@
    git clone https://github.com/yourusername/kali-all-in-one-tool.git
    cd kali-all-in-one-tool
 
-   Install dependencies:
+2. **Install dependencies**:
  ```bash
-bash
+'''bash
 sudo apt update && sudo apt install -y \
 aircrack-ng hydra nmap macchanger \
 python3-pip
 pip3 install -r requirements.txt
-Make executable:
 
-bash
+3. **Make executable**:
+
+ ```bash
 chmod +x kali_tool.py
-Run with root privileges:
 
-bash
+4. **Run with root privileges**:
+
+ ```bash
 sudo ./kali_tool.py
