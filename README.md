@@ -38,7 +38,7 @@
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/kali-all-in-one-tool.git
+   git clone https://github.com/nadeemmhdm/kallex.git
    cd kali-all-in-one-tool
 
 2. **Install dependencies**:
