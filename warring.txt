@@ -1,0 +1,57 @@
+⚠ LEGAL WARNING & ETHICAL USE NOTICE
+BEFORE USING THIS TOOL, YOU MUST READ AND AGREE TO THE FOLLOWING:
+
+STRICTLY FOR LEGAL PURPOSES ONLY
+
+This tool is designed only for:
+
+Penetration testing on systems you own
+
+Ethical hacking education/research
+
+Security hardening with explicit permission
+
+Any unauthorized use is illegal and violates:
+
+Computer Fraud and Abuse Act (CFAA)
+
+GDPR/Privacy Laws
+
+International cybercrime treaties
+
+NO MALICIOUS USE ALLOWED
+
+❌ Never attack systems you don't own
+
+❌ No credential stuffing on live sites
+
+❌ No unauthorized Wi-Fi cracking
+
+❌ No deploying payloads without consent
+
+YOUR LEGAL RESPONSIBILITY
+
+By using this tool, you accept full liability for your actions
+
+Developers are not responsible for misuse
+
+Evidence of illegal use will be reported to authorities
+
+PROOF OF AUTHORIZATION REQUIRED
+
+For professional security testing:
+
+Always obtain written permission
+
+Use under binding contracts
+
+Document all activities
+
+❗ Violators risk:
+
+Criminal charges
+
+Fines up to $500,000 (US)
+
+Imprisonment (5+ years in some jurisdictions)
+
