@@ -43,7 +43,6 @@
 
 2. **Install dependencies**:
 
- ```bash
 sudo apt update && sudo apt install -y \
 aircrack-ng hydra nmap macchanger \
 python3-pip
@@ -51,10 +50,8 @@ pip3 install -r requirements.txt
 
 3. **Make executable**:
 
-```bash
 chmod +x kali_tool.py
 
 4. **Run with root privileges**:
 
- ```bash
 sudo ./kali_tool.py
