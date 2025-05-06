@@ -1,0 +1,15 @@
+# Core Requirements
+colorama==0.4.6
+requests==2.31.0
+tqdm==4.66.1
+scapy==2.5.0
+
+# Security Tools
+pyzipper==0.3.6
+paramiko==3.3.1
+python-nmap==0.7.1
+
+# Optional (Uncomment if needed)
+# metasploit-payloads==1.0.3  # For Metasploit integration
+# beautifulsoup4==4.12.2     # For web scraping modules
+# selenium==4.11.2           # For browser automation
