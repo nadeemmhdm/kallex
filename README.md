@@ -42,7 +42,7 @@
    cd kali-all-in-one-tool
 
    Install dependencies:
-
+ ```bash
 bash
 sudo apt update && sudo apt install -y \
 aircrack-ng hydra nmap macchanger \
